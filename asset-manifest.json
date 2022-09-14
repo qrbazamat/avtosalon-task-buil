@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f169df3.css",
+    "main.js": "/static/js/main.eb28176b.js",
+    "static/media/NotoSans-Thin.ttf": "/static/media/NotoSans-Thin.f8eb04149ef4682fef3d.ttf",
+    "static/media/NotoSans-Regular.ttf": "/static/media/NotoSans-Regular.eae34fa8f1e0c4c6d797.ttf",
+    "static/media/NotoSans-Light.ttf": "/static/media/NotoSans-Light.2cfb54d923b32fbd5525.ttf",
+    "static/media/360-icon.svg": "/static/media/360-icon.f078efa45329a7cd9c247a6f0031b4f4.svg",
+    "static/media/sprites.svg": "/static/media/sprites.c08944fed399e84633d0.svg",
+    "index.html": "/index.html",
+    "static/media/grabbing.svg": "/static/media/grabbing.92ec62eb995e79248066.svg",
+    "static/media/grab.svg": "/static/media/grab.6a052e927d39314632fd.svg",
+    "static/media/background.svg": "/static/media/background.73c746e88409ccb4b512.svg",
+    "static/media/compass.svg": "/static/media/compass.0f193cd39061ea43cc46.svg",
+    "main.2f169df3.css.map": "/static/css/main.2f169df3.css.map",
+    "main.eb28176b.js.map": "/static/js/main.eb28176b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f169df3.css",
+    "static/js/main.eb28176b.js"
+  ]
+}
